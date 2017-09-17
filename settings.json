@@ -1,0 +1,11 @@
+{
+  "pimatic": {
+    "host": "http://192.168.x.y",
+    "username": "user",
+    "password": "password"
+  },
+  "holidays": {
+    "country": "Germany",
+    "province": "BE"
+  }
+}
