@@ -1,2 +1,2 @@
-holidays==0.8.1
-requests==2.14.2
+holidays==0.9.8
+requests==2.20.1
